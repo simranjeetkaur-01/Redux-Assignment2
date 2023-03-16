@@ -1,0 +1,25 @@
+{
+  "name": "redux-assignment2",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "expo-asset": "8.9.1",
+    "react": "17.0.*",
+    "react-dom": "17.0.*",
+    "react-native-video": "5.2.1",
+    "react-native-web": "0.18.*",
+    "react-redux": "8.0.5",
+    "react-scripts": "3.4.1",
+    "redux": "4.2.1",
+    "redux-thunk": "2.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
